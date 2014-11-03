@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\NEventStoreDemo\NEventStoreDemoRaven\obj\Debug\NEventStoreDemo.exe
+C:\Users\User\Desktop\NEventStoreDemo\NEventStoreDemoRaven\obj\Debug\NEventStoreDemo.pdb
+C:\Users\User\Desktop\NEventStoreDemo\NEventStoreDemoRaven\bin\Debug\NEventStoreDemo.exe
+C:\Users\User\Desktop\NEventStoreDemo\NEventStoreDemoRaven\bin\Debug\NEventStoreDemo.pdb
+C:\Users\User\Desktop\NEventStoreDemo\NEventStoreDemoRaven\bin\Debug\NEventStore.dll
+C:\Users\User\Desktop\NEventStoreDemo\NEventStoreDemoRaven\bin\Debug\NEventStore.Persistence.RavenDB.dll
+C:\Users\User\Desktop\NEventStoreDemo\NEventStoreDemoRaven\bin\Debug\NEventStore.pdb
+C:\Users\User\Desktop\NEventStoreDemo\NEventStoreDemoRaven\bin\Debug\NEventStore.xml
+C:\Users\User\Desktop\NEventStoreDemo\NEventStoreDemoRaven\bin\Debug\NEventStore.Persistence.RavenDB.pdb
+C:\Users\User\Desktop\NEventStoreDemo\NEventStoreDemoRaven\bin\Debug\Raven.Abstractions.dll
+C:\Users\User\Desktop\NEventStoreDemo\NEventStoreDemoRaven\bin\Debug\Raven.Client.Lightweight.dll
+C:\Users\User\Desktop\NEventStoreDemo\NEventStoreDemoRaven\bin\Debug\Raven.Abstractions.xml
+C:\Users\User\Desktop\NEventStoreDemo\NEventStoreDemoRaven\bin\Debug\Raven.Client.Lightweight.xml
+C:\Users\User\Desktop\NEventStoreDemo\NEventStoreDemoRaven\obj\Debug\NEventStoreDemoRaven.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\NEventStoreDemo\NEventStoreDemoRaven\bin\Debug\NEventStoreDemo.exe.config

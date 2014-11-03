@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\NEventStoreDemo\NEventStoreDemo\bin\Debug\NEventStoreDemo.exe.config
+C:\Users\User\Desktop\NEventStoreDemo\NEventStoreDemo\obj\Debug\NEventStoreDemo.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\NEventStoreDemo\NEventStoreDemo\bin\Debug\NEventStoreDemo.exe
+C:\Users\User\Desktop\NEventStoreDemo\NEventStoreDemo\bin\Debug\NEventStoreDemo.pdb
+C:\Users\User\Desktop\NEventStoreDemo\NEventStoreDemo\bin\Debug\NEventStore.dll
+C:\Users\User\Desktop\NEventStoreDemo\NEventStoreDemo\bin\Debug\NEventStore.pdb
+C:\Users\User\Desktop\NEventStoreDemo\NEventStoreDemo\bin\Debug\NEventStore.xml
+C:\Users\User\Desktop\NEventStoreDemo\NEventStoreDemo\obj\Debug\NEventStoreDemo.exe
+C:\Users\User\Desktop\NEventStoreDemo\NEventStoreDemo\obj\Debug\NEventStoreDemo.pdb

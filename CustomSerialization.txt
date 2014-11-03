@@ -1,0 +1,2 @@
+http://stackoverflow.com/questions/15826651/protobuf-net-serializer-for-neventstore-3/15827983#15827983
+https://gist.github.com/warappa/6388270
